@@ -57,3 +57,31 @@ All the organic pathways and mechanisms for A-Level OCR Chemistry A, including n
   - Reagents = HX or NaX
   - Conditions = Concentrated H<sub>2</sub>SO<sub>4</sub> acid catalyst
   
+### Oxidation Reactions
+#### Primary Alcohol to Aldehyde:
+  - Type = Partial Oxidation
+  - Reagents =  Acidified Potassium Dichromate (VI) - Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>/H<sup>+</sup> or K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sub>2</sub>SO<sub>4</sub>
+  - Conditions = Little oxygen and oxidising agent [O], Distillation
+  - Observation = Orange to Green
+  
+#### Primary Alcohol to Carboxylic Acid:
+  - Type = Complete Oxidation
+  - Reagents =  Acidified Potassium Dichromate (VI) - Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>/H<sup>+</sup> or K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sub>2</sub>SO<sub>4</sub>
+  - Conditions = Excess oxygen and oxidising agent [O], Heat under reflux
+  - Observation = Orange to Green
+  
+#### Secondary Alcohol to Ketone:
+  - Type = Oxidation
+  - Reagents =  Acidified Potassium Dichromate (VI) - Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>/H<sup>+</sup> or K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sub>2</sub>SO<sub>4</sub>
+  - Conditions = Oxidising agent [O], heat under reflux
+  - Observation = Orange to Green
+  
+#### Tertiary Alcohols:
+  - Resistant to normal oxidation
+  - Observation = Stays Orange
+  
+#### Aldehyde to Carboxylic Acid:
+  - Type = Oxidation
+  - Reagents =  Acidified Potassium Dichromate (VI) - Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>/H<sup>+</sup> or K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sub>2</sub>SO<sub>4</sub>
+  - Condition = Oxidising Agent [O], heat under reflux
+  - Observation = Orange to Green
