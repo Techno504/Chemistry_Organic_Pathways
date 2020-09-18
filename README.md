@@ -1,4 +1,4 @@
-# Chemistry_Organic_Pathways
+# Chemistry Organic Pathways
 All the organic pathways and mechanisms for A-Level OCR Chemistry A, including names, reagents, conditions and type of reactions.
 
 ## Alkane
@@ -9,7 +9,7 @@ All the organic pathways and mechanisms for A-Level OCR Chemistry A, including n
   - Type = Halogenation (Substitution)
  
 ## Alkene 
-- Alkene to ALkane:
+- Alkene to Alkane:
   - Mechanism = Electrophilic Addition
   - Reagents = H<sub>2</sub> and Nickel Catalyst
   - Conditions = 150<sup>o</sup>C
@@ -37,3 +37,23 @@ All the organic pathways and mechanisms for A-Level OCR Chemistry A, including n
   - Type = Addition Polymerisation
   - Reagents = None
   - Conditions = None
+  
+## Haloalkane
+- Haloalkane to Alcohol:
+  - Mechanism = Nucleophilic Substitution
+  - Reagents = Hot aqueous NaOH or KOH
+  - Conditions = Heat Under Reflux
+  - Type = Hydrolysis
+  
+## Alcohol
+- Alcohol to Alkene:
+  - Mechanism = Electrophilic Addition
+  - Reagents = Concentrated H<sub>3</sub>PO<sub>4</sub> or H<sub>2</sub>SO<sub>4</sub> acid catalyst
+  - Conditions = Heat under reflux, heat
+  - Type = Dehydration/elimination
+
+- Alcohol to Haloalkane:
+  - Mechanism = Nucleophilic Substitution
+  - Reagents = HX or NaX
+  - Conditions = Concentrated H<sub>2</sub>SO<sub>4</sub> acid catalyst
+  
