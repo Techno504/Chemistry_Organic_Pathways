@@ -1,6 +1,13 @@
 # Chemistry Organic Pathways
 All the organic pathways and mechanisms for A-Level OCR Chemistry A, including names, reagents, conditions and type of reactions.
 
+**Contents**
+- Alkanes
+- Alkenes
+- Haloalkanes
+- Alcohols
+- Oxidation Reactions
+
 ## Alkane
 ### Alkane to Haloalkane:
   - Mechanism = Free Radical Substitution
