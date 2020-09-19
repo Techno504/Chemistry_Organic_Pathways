@@ -2,10 +2,10 @@
 All the organic pathways and mechanisms for A-Level OCR Chemistry A, including names, reagents, conditions and type of reactions.
 
 **Contents**
-- [Alkanes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alkanes)
-- [Alkenes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alkenes)
-- [Haloalkanes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#haloalkanes)
-- [Alcohols](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alcohols)
+- [Alkanes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alkane)
+- [Alkenes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alkene)
+- [Haloalkanes](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#haloalkane)
+- [Alcohols](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#alcohol)
 - [Oxidation Reactions](https://github.com/Techno504/Chemistry_Organic_Pathways/blob/master/README.md#oxidation-reactions)
 
 ## Alkane
